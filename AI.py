@@ -1,5 +1,5 @@
 from mistralai import Mistral
-API_KEY = "R0KfhkjCVoa8Y5fFjd2yn8s4zoASkbd5"
+API_KEY = ""
 
 model = "mistral-large-latest"
 
